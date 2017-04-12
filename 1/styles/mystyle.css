@@ -1,0 +1,61 @@
+body{
+	font-family: helvetica;
+	color: #FFFFFF;
+	background-color: black;
+}
+
+.site-logo {
+    float: left;
+	width: 240px;
+}
+
+/*.backgroundimage{
+	background-image: url("images/earthbg.jpg");
+}*/
+
+
+/* change font color*/
+h1 {
+    font-family: "Century Gothic";
+    font-size: 25pt;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #FFFFFF; 
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: "Avenir";
+    font-size: 20pt;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #FFFFFF; 
+    letter-spacing: 2px;
+}
+
+
+p {
+    font-family: "Avenir";
+    font-size: 45pt;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #FFFFFF; 
+    font-weight: 3px;
+    letter-spacing: 2px;
+}
+
+.grid {
+    margin-left:-40px;
+}
+
+.grid__item {
+    float: left;
+    padding-left: 45px;
+}
+
+.one-third {
+    width: 30%;
+}
